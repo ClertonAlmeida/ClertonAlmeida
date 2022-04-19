@@ -9,14 +9,21 @@ Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamen
 
 
 
-
-### Linguagens e Ferramentas que já utilizei / conheço:
+### Linguagens e Ferramentas que já utilizei/conheço:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>      <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" height="40"/>  
 
 
 
 
+
+<div>
+<a href="https://github.com/ClertonAlmeida">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClertonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClertonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+       
 ### Meus Contatos:
 
 <div>
