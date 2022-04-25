@@ -15,7 +15,13 @@ Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
 
+### Projetos:
 
+
+| Data Science | Business Intelligence | Machine Learning |
+|--- |--- |--- |
+| [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython)| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) |
+| [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) | --- |
 
 
 
