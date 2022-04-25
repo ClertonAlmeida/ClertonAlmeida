@@ -1,11 +1,18 @@
 ## Olá, me chamo Clerton Almeida ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Hoje estou ingressando na área de Data Science, Business Intelligence e Machine Learning dando continuidade à minha carreira na área de Tecnologia. Estou realizando curso em Data Science na AWARI e ampliando meus estudos em Business Intelligence e Machine Learning, SQL e Python na Alura. 
 
-Tenho conhecimento em SQL e em diversos pacotes de Python usados na área de dados: Pandas, matplotlib, seaborn, plotly e Numpy. Estou cursando inglês na English Live.
+Eu tenho 33 anos e moro em Quixadá-CE.
 
-Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamento crítico, analítico, um perfil colaborativo e extremamente voltado a capacidade de entrega.
+:heartpulse:Sou apaixonado por Data Science!
+
+:closed_book: 📊 Estou estudando Data Science, Business Intelligence e Machine Learning dando continuidade à minha carreira na área de Tecnologia. 
+
+:closed_book: Estou realizando curso em Data Science na AWARI e ampliando meus estudos em Business Intelligence e Machine Learning, SQL e Python na Alura. 
+
+:white_check_mark:Tenho conhecimento em SQL e em diversos pacotes de Python usados na área de dados: Pandas, matplotlib, seaborn, plotly e Numpy. Estou cursando inglês na English Live.
+
+:white_check_mark:Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamento crítico, analítico, um perfil colaborativo e extremamente voltado a capacidade de entrega.
 
 
 
@@ -15,13 +22,15 @@ Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
 
-### Projetos:
+### Projetos e Exercícios:
 
 
 | Data Science | Business Intelligence | Machine Learning |
 |--- |--- |--- |
 | [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython)| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) |
-| [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) | --- |
+|--- | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) | --- |
+|--- | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |--- |
+
 
 
 
