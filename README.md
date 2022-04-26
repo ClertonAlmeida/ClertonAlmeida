@@ -25,11 +25,13 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 ### Projetos e Exercícios:
 
 
-| Data Science | Business Intelligence | Machine Learning |
-|--- |--- |--- |
-| [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython)| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) |
-|--- | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) | --- |
-|--- | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |--- |
+| Data Science /  Machine Learning / Business Intelligence | Exercícios |
+|--- |--- |
+| [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython)|[Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
+| [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) |--- |
+| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) |--- | 
+| [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) |--- |
+
 
 
 
