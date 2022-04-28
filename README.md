@@ -27,7 +27,7 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 
 | Data Science /  Machine Learning / Business Intelligence | Exercícios |
 |--- |--- |
-| [Analise Dados - Netflix-2021(Pytho)](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python) |[Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) |
+| [Analise Dados - Netflix-2021(Pytho) 🚧 EM CONSTRUÇÃO 🚧](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python) |[Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) |
 | [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython)|[Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
 | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) |--- |
 | [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) |--- | 
