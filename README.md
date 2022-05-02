@@ -29,9 +29,9 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 |--- |--- | 
 | [Projeto Regressão Linear (Python) ](https://github.com/ClertonAlmeida/Projeto-de-Regressao-Linear-Python-) | [Analisando Dados - Netflix-2021(Pytho)](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python) |
 | [Visualização com Matplotlib](https://github.com/ClertonAlmeida/Visualizacao-Matplotlib) | [Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) |
+| [Teste Estatistico - Alura](https://github.com/ClertonAlmeida/Testes-Estatisticos) | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) |
 | [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython) | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
 | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) | [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) |
-| [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) |
 
 
 
