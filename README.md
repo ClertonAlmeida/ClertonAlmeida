@@ -32,7 +32,7 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 | [Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) | [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) |
 | [Teste Estatistico - Alura](https://github.com/ClertonAlmeida/Testes-Estatisticos) | [Power BI - Dados de Varejo](https://github.com/ClertonAlmeida/Power-BI---Dados-de-Varejo) |
 | [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython) | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
-| [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) | ---|
+| [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) | [Desenvolvimento em Python](https://github.com/ClertonAlmeida/Desenvolvimento-Python)|
 
 
 
