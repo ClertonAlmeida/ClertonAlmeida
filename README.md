@@ -6,13 +6,15 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 
 :heartpulse:Sou apaixonado por Data Science!
 
-:closed_book: 📊 Constantemente se atualizanddo em Data Science, Business Intelligence e Machine Learning. 
+:family_man_woman_boy_boy: Casado e pai de dois meninos, que são minha força e motivação diária.
 
 :white_check_mark: Tenho experiência no desenvolvimento de projetos de análise de dados utilizando ferramentas como SQL, Pentaho, Power BI e Python.
 
-:office_worker: Atuadei em três escolas profissionais do estado do Ceará, onde cheguei a ocupar as funções de Coordenador, Professor e Orientador de Estágio. Ministrando as disciplinas: Programação Orientada a Objetos I e II; Linguagem SQL; Modelagem de Banco de Dados; Programação para WEB; Analise de Sistemas; Logica de Programação; e outras. 
+:office_worker: Atuei em três escolas profissionais do estado do Ceará, onde cheguei a ocupar as funções de Coordenador, Professor e Orientador de Estágio. Ministrando disciplinas como: Programação Orientada a Objetos; Linguagem SQL; Modelagem de Banco de Dados; Programação para WEB; Análise de Sistemas; Lógica de Programação; e outras. 
 
 :man_student: Cursei graduação em Sistemas de Informação, tenho formação em Direito, curso este que me possibilita atuar como advogado, com registro profissional na OAB/CE 44568.
+
+:closed_book: Realizando estudos em atualizando em Data Science, Business Intelligence e Machine Learning.
 
 :technologist: Com conhecimento em Python(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, Pentaho e Excel.
 
