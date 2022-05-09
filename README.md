@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Eu tenho 33 anos e moro em Quixadá-CE.
+Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 
 :heartpulse:Sou apaixonado por Data Science!
 
