@@ -6,11 +6,15 @@ Eu tenho 33 anos e moro em Quixadá-CE.
 
 :heartpulse:Sou apaixonado por Data Science!
 
-:closed_book: 📊 Estou estudando Data Science, Business Intelligence e Machine Learning dando continuidade à minha carreira na área de Tecnologia. 
+:closed_book: 📊 Constantemente se atualizanddo em Data Science, Business Intelligence e Machine Learning. 
 
-:closed_book: Estou realizando curso em Data Science na AWARI e ampliando meus estudos em Business Intelligence e Machine Learning, SQL e Python na Alura. 
+:white_check_mark: Tenho experiência no desenvolvimento de projetos de análise de dados utilizando ferramentas como SQL, Pentaho, Power BI e Python.
 
-:white_check_mark:Tenho conhecimento em SQL e em diversos pacotes de Python usados na área de dados: Pandas, matplotlib, seaborn, plotly e Numpy. Estou cursando inglês na English Live.
+:office_worker: Atuadei em três escolas profissionais do estado do Ceará, onde cheguei a ocupar as funções de Coordenador, Professor e Orientador de Estágio. Ministrando as disciplinas: Programação Orientada a Objetos I e II; Linguagem SQL; Modelagem de Banco de Dados; Programação para WEB; Analise de Sistemas; Logica de Programação; e outras. 
+
+:man_student: Cursei graduação em Sistemas de Informação, tenho formação em Direito, curso este que me possibilita atuar como advogado, com registro profissional na OAB/CE 44568.
+
+:technologist: Com conhecimento em Python(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, Pentaho e Excel.
 
 :white_check_mark:Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamento crítico, analítico, um perfil colaborativo e extremamente voltado a capacidade de entrega.
 
