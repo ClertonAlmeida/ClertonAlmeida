@@ -31,9 +31,9 @@ Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 
 | Data Science - Machine Learning | Business Intelligence | 
 |--- |--- | 
-| [Projeto - Regressão Linear (Python) ](https://github.com/ClertonAlmeida/Projeto-de-Regressao-Linear-Python-)| [BI - Direito](https://github.com/ClertonAlmeida/BI_Direito) |
+| [Projeto - Challenge DataScience](https://github.com/ClertonAlmeida/ChallengeDataScience) | [BI - Direito](https://github.com/ClertonAlmeida/BI_Direito) |
 | [Projeto - Previsão de Notas de Alunos](https://github.com/ClertonAlmeida/Previsao-Notas-Alunos)| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
-| [Projeto - Challenge DataScience](https://github.com/ClertonAlmeida/ChallengeDataScience) |
+| [Projeto - Regressão Linear (Python) ](https://github.com/ClertonAlmeida/Projeto-de-Regressao-Linear-Python-) |
 | [Analisando Dados - Netflix-2021(Python)](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python) |
 | [Visualização com Matplotlib](https://github.com/ClertonAlmeida/Visualizacao-Matplotlib) |
 | [Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) | 
