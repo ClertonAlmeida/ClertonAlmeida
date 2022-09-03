@@ -14,7 +14,7 @@ Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 
 :man_student: Cursei graduação em Sistemas de Informação, tenho formação em Direito, curso este que me possibilita atuar como advogado, com registro profissional na OAB/CE 44568.
 
-:closed_book: Realizando estudos em atualizando em Data Science, Business Intelligence e Machine Learning.
+:closed_book: Realizando estudos e me atualizando em Data Science, Machine Learning, Visão Computacional e Deep Learning.
 
 :technologist: Com conhecimento em Python(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, Pentaho e Excel.
 
