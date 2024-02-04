@@ -2,23 +2,23 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
+Eu tenho 35 anos e moro em Quixadá/Fortaleza - CE.
 
 :heartpulse:Sou apaixonado por Data Science!
 
 :family_man_woman_boy_boy: Casado e pai de dois meninos, que são minha força e motivação diária.
 
-:white_check_mark: Tenho experiência no desenvolvimento de projetos de análise de dados utilizando ferramentas como SQL, Pentaho, Power BI e Python.
+:white_check_mark: Tenho formação acadêmica e profissional focada em dados. Atualmente, estou cursando mestrado em Informática Aplicada com especialização em Ciência de Dados e Inteligência Artificial. Além disso, concluí a graduação em Direito, o que me habilita para o exercício da advocacia.
 
-:office_worker: Atuei em três escolas profissionais do estado do Ceará, onde cheguei a ocupar as funções de Coordenador, Professor e Orientador de Estágio. Ministrando disciplinas como: Programação Orientada a Objetos; Linguagem SQL; Modelagem de Banco de Dados; Programação para WEB; Análise de Sistemas; Lógica de Programação; e outras. 
+:white_check_mark:Minhas diversas experiências profissionais desenvolveram meu pensamento crítico e analítico, uma mentalidade colaborativa e um forte foco em entregar resultados. Casado e pai de dois meninos, eles servem como uma constante fonte de motivação em minha vida.
 
-:man_student: Cursei graduação em Sistemas de Informação, tenho formação em Direito, curso este que me possibilita atuar como advogado, com registro profissional na OAB/CE 44568.
+:white_check_mark:Estou continuamente buscando aprimorar meus conhecimentos em Engenharia de Dados, Ciência de Dados e Inteligência Artificial por meio do meu programa de mestrado e diversos cursos diários.
 
-:closed_book: Realizando estudos e me atualizando em Data Science, Machine Learning, Visão Computacional e Deep Learning.
-
-:technologist: Com conhecimento em Python(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, Pentaho e Excel.
-
-:white_check_mark:Até aqui tive diversas experiências que me auxiliaram a desenvolver o pensamento crítico, analítico, um perfil colaborativo e extremamente voltado a capacidade de entrega.
+:white_check_mark:Certificações:
+- PL-300
+- DP-900
+- DP-203
+- Databricks Lakehouse Fundamentals
 
 
 
@@ -42,6 +42,9 @@ Eu tenho 33 anos e moro em Quixadá/Fortaleza - CE.
 | [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython) | 
 | [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) | 
 | [Desenvolvimento em Python](https://github.com/ClertonAlmeida/Desenvolvimento-Python)|
+
+*********************************************************************************************************************************************************************************************************************************
+
 
 
 
