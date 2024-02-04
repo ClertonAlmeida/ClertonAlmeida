@@ -2,9 +2,9 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-Eu tenho 35 anos e moro em Quixadá/Fortaleza - CE.
+Eu tenho 35 anos e moro em São José - SC.
 
-:heartpulse:Sou apaixonado por Data Science!
+:heartpulse:Sou apaixonado por Data Science, atualmente sou Ciêntista de Dados na Abstrato Tech!
 
 :family_man_woman_boy_boy: Casado e pai de dois meninos, que são minha força e motivação diária.
 
