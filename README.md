@@ -1,68 +1,72 @@
-## Olá, me chamo Clerton Almeida ! 
-### Bem vindo ao meu perfil GitHub 👋
+## 👋 Hi, I'm Clerton Almeida!
 
+### Welcome to my GitHub 🚀
 
-Eu tenho 35 anos e moro em São José - SC.
+📍 **Based in São Paulo, Brazil**
+🎯 **GenAI Specialist | Team Leader in AI Projects**
+🏢 **Working at the forefront of Artificial Intelligence in enterprise environments**
 
-:heartpulse:Sou apaixonado por Data Science, atualmente sou Ciêntista de Dados na Abstrato Tech!
+---
 
-:family_man_woman_boy_boy: Casado e pai de dois meninos, que são minha força e motivação diária.
+### 🙋‍♂️ About Me
 
-:white_check_mark: Tenho formação acadêmica e profissional focada em dados. Atualmente, estou cursando mestrado em Informática Aplicada com especialização em Ciência de Dados e Inteligência Artificial. Além disso, concluí a graduação em Direito, o que me habilita para o exercício da advocacia.
+I'm a 35-year-old data enthusiast, husband, and proud father of two boys who inspire me daily. I currently lead a team focused on **Generative AI (GenAI)**, delivering scalable solutions that transform how businesses interact with data and generate insights.
 
-:white_check_mark:Minhas diversas experiências profissionais desenvolveram meu pensamento crítico e analítico, uma mentalidade colaborativa e um forte foco em entregar resultados. Casado e pai de dois meninos, eles servem como uma constante fonte de motivação em minha vida.
+📘 **Master’s student in Applied Informatics**, specializing in **Data Science and Artificial Intelligence**
+🎓 **Bachelor’s degree in Law**, registered with the Brazilian Bar Association (OAB)
+🧠 Solid background in **Data Science, Data Engineering, and AI**, with hands-on experience in real-world corporate use cases
+🤖 Passionate about building intelligent systems, automating insights, and leading **GenAI-based product development**
 
-:white_check_mark:Estou continuamente buscando aprimorar meus conhecimentos em Engenharia de Dados, Ciência de Dados e Inteligência Artificial por meio do meu programa de mestrado e diversos cursos diários.
+---
 
-:white_check_mark:Certificações:
-- PL-300
-- DP-900
-- DP-203
-- Databricks Lakehouse Fundamentals
+### 📜 Certifications
 
+* **PL-300** — Microsoft Power BI Data Analyst Associate
+* **DP-900** — Microsoft Azure Data Fundamentals
+* **DP-203** — Microsoft Azure Data Engineer Associate
+* **Databricks Lakehouse Fundamentals**
 
+---
 
-### Linguagens e Ferramentas que já utilizei/conheço:
+### 🛠️ Technologies & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>       <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40"/>
 
-### Projetos e Exercícios:
+Also experienced with:
+☁️ **Azure** | 🧠 **OpenAI, GenAI** | 🧱 **Databricks** | 📊 **Power BI** | 🧬 **MLflow** | 🕸️ **LangChain** | 🧩 **LangGraph** | 🔧 **Unity Catalog**
 
+---
 
-| Data Science - Machine Learning | Business Intelligence | 
-|--- |--- | 
-| [Projeto - Classificação e Extração de informações de documentos OCR](https://github.com/ClertonAlmeida/ClassificadorOCR/tree/main) | [BI - Direito](https://github.com/ClertonAlmeida/BI_Direito) |
-| [Projeto - Challenge DataScience](https://github.com/ClertonAlmeida/ChallengeDataScience) | [Apache - Airflow](https://github.com/ClertonAlmeida/Apache-Airflow)|
-| [Projeto - Previsão de Notas de Alunos](https://github.com/ClertonAlmeida/Previsao-Notas-Alunos)| [Formação Power BI - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI) | [Exercícios de SQL(SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades) |
-| [Projeto - Regressão Linear (Python) ](https://github.com/ClertonAlmeida/Projeto-de-Regressao-Linear-Python-) | 
-| [Analisando Dados - Netflix-2021(Python)](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python) |
-| [Visualização com Matplotlib](https://github.com/ClertonAlmeida/Visualizacao-Matplotlib) |
-| [Jogos em Python](https://github.com/ClertonAlmeida/Jogos-em-Python) | 
-| [Teste Estatistico - Alura](https://github.com/ClertonAlmeida/Testes-Estatisticos) |
-| [Scraping com Python - Alura](https://github.com/ClertonAlmeida/ScrapingcomPython) | 
-| [Corretor Ortográfico em Python - Alura](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA) | 
-| [Desenvolvimento em Python](https://github.com/ClertonAlmeida/Desenvolvimento-Python)|
+### 📂 Featured Projects
 
-*********************************************************************************************************************************************************************************************************************************
+| GenAI & Data Science                                                                                  | Business Intelligence                                                                     |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Document Classification with OCR + ML](https://github.com/ClertonAlmeida/ClassificadorOCR/tree/main) | [Legal Dashboard - Power BI](https://github.com/ClertonAlmeida/BI_Direito)                |
+| [Complete Data Science Challenge](https://github.com/ClertonAlmeida/ChallengeDataScience)             | [ETL Orchestration with Apache Airflow](https://github.com/ClertonAlmeida/Apache-Airflow) |
+| [Student Performance Prediction (ML)](https://github.com/ClertonAlmeida/Previsao-Notas-Alunos)        | [Power BI Training - Alura](https://github.com/ClertonAlmeida/FormacaoPowerBI)            |
+| [Netflix 2021 Data Analysis (Python)](https://github.com/ClertonAlmeida/Analise-Netflix-2021-Python)  | [SQL Practice (SQLite)](https://github.com/ClertonAlmeida/SQL-AWARI-Atividades)           |
+| [Web Scraping with Python](https://github.com/ClertonAlmeida/ScrapingcomPython)                       |                                                                                           |
+| [Data Visualization with Matplotlib](https://github.com/ClertonAlmeida/Visualizacao-Matplotlib)       |                                                                                           |
+| [Statistical Testing with Python](https://github.com/ClertonAlmeida/Testes-Estatisticos)              |                                                                                           |
+| [Spelling Corrector with NLP](https://github.com/ClertonAlmeida/CorretorOrtografico-Python-ALURA)     |                                                                                           |
 
+---
 
-
-
-
-
-<div>
-<a href="https://github.com/ClertonAlmeida">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClertonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClertonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-       
-### Meus Contatos:
+### 📊 GitHub Stats
 
 <div>
-<a href = "mailto:clertonjradv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/clerton-almeida-735965205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClertonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClertonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+---
 
-       
+### 🤝 Let’s Connect
+
+<div>
+  <a href = "mailto:clertonjradv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/clertonalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
+
